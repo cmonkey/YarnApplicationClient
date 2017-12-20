@@ -1,6 +1,6 @@
-package com.trader.yarn.test;
+package org.github.cmonkey.yarn.test;
 
-import com.trader.yarn.YarnApplicationClient;
+import org.github.cmonkey.yarn.YarnApplicationClient;
 import org.apache.hadoop.yarn.api.records.ApplicationId;
 import org.apache.hadoop.yarn.api.records.ApplicationReport;
 import org.apache.hadoop.yarn.api.records.YarnApplicationState;

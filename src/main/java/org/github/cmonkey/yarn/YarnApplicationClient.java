@@ -1,4 +1,4 @@
-package com.trader.yarn;
+package org.github.cmonkey.yarn;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

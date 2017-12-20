@@ -1,4 +1,4 @@
-package com.trader.yarn;
+package org.github.cmonkey.yarn;
 
 public class ApplicationMaster {
 
